@@ -44,7 +44,7 @@ Javascript, HTML, CSS, Typescript, React, Styled Components
   
 ## Acknowledgements
 
- - [Bonieky - Sistema de Finanças Pessoais em React (com Typescript) - Projeto 2 - Desafio 5em5 (React)](https://youtu.be/95sAtAareR8)
+ - [Bonieky - Sistema de Finanças Pessoais em React (com Typescript) - Projeto 2 - Desafio 5em5 (React)](https://www.youtube.com/watch?v=_hytKpMc04E)
 
 
   
